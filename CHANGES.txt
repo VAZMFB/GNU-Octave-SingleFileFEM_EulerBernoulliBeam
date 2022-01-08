@@ -1,0 +1,10 @@
+--------------------
+GNU-Octave-SingleFileFEM_EulerBernoulliBeam
+Example of calculation using Finite Element Method with Euler Bernoulli Beams implemented in single GNU Octave file.
+--------------------
+
+Release 1.0.0, 08.01.2022.
+
+- Initial release
+
+--------------------
